@@ -26,7 +26,7 @@ Responsive Design: Optimized for various device sizes.
     |-- styles.css
     |-- README.md
 
-##Installation
+## Installation
 
 1. Clone 
     ```bash
