@@ -11,7 +11,6 @@ Dynamic Background Image: The background image updates according to weather cond
 Responsive Design: Optimized for various device sizes.
 
 ## File Structure
-    ```
     /weather-app
     |-- /images
     |   |-- hot_day.jpg
@@ -26,7 +25,6 @@ Responsive Design: Optimized for various device sizes.
     |-- script.js
     |-- styles.css
     |-- README.md
-    ```
 
 ##Installation
 
