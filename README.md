@@ -1,8 +1,9 @@
 # Weather_Project
- Weather Application fd
+ Weather Application
 
 ```bash
 A simple weather application that provides current weather information based on user input. This app fetches real-time weather data using the WeatherStack API and displays it with a dynamic background image that changes based on weather conditions, time of day, and temperature.
+```
 
 ## Features 
 Search for Weather: Enter a city name or ZIP code to retrieve current weather information.
@@ -25,16 +26,19 @@ Responsive Design: Optimized for various device sizes.
     |-- script.js
     |-- styles.css
     |-- README.md
+    ```
 
 ##Installation
 
 1. Clone 
     ```bash
     git clone https://github.com/your-username/weather-app.git
+    ```
 
 2. Navigate into the project directory:
     ```bash
     cd weather-app
+   ```
 
 3. Open index.html in your web browser to view the application.
 
